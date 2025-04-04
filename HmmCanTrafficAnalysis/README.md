@@ -1,6 +1,6 @@
 # HMMCANTrafficAnalysis
 <div align="center">
-    <img  style="width: 50%" src="https://miro.medium.com/v2/resize:fit:681/1*BGYc0XF3JuykME2sNBtXlg.png">
+    <img src="https://miro.medium.com/v2/resize:fit:681/1*BGYc0XF3JuykME2sNBtXlg.png">
 </div>
 
 <br>
@@ -39,17 +39,17 @@ python hmm_antropy.py
 
 - Data Set Sample
 <p align ="center">
-    <img src="../projects-images/ml-cantraffic-1.png"/>
+    <img src="./meta/image1.png"/>
 </p>
 
 - Arbid Time Stamp Method
 <p align ="center">
-    <img src="../projects-images/ml-cantraffic-2.png"/>
+    <img src="./meta/image2.png"/>
 </p>
 
 - Arbid Haming Distance Method
 <p align ="center">
-    <img src="../projects-images/ml-cantraffic-3.png"/>
+    <img src="./meta/image3.png"/>
 </p>
 
 </details>
