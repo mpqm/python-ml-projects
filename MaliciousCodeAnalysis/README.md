@@ -39,17 +39,17 @@ python malicious_code_analysis.py
 
 - Data Set Sample
 <p align ="center">
-    <img src="./meta/image2.png">
+    <img src="./meta/image/image2.png">
 </p>
 
 - 6개의 데이터셋들에서 opcodeTrace 추출, target(mal/benign)과 feature(n-gram)데이터 가공</b>
 <p align ="center">
-    <img src="./meta/image3.png">
+    <img src="./meta/image/image3.png">
 </p>
 
 - 모델 학습
 <p align ="center">
-    <img src="./meta/image4.png">
+    <img src="./meta/image/image4.png">
 </p>
 
 </details>
