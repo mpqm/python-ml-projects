@@ -1,7 +1,7 @@
 # MaliciousCodeAnalysis
 
 <div align="center">
-    <img src="./meta/image1.png">
+    <img src="./meta/image/image1.png">
 </div>
 
 <br>
